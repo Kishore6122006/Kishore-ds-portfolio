@@ -1,0 +1,35 @@
+# 📊 Data Science Projects – Kishore D
+
+This folder contains all my data science projects, organized by difficulty level.  
+Each project has its own folder with code, dataset, and insights.
+
+---
+
+## 🟢 Beginner Projects
+- [Titanic Survival Analysis](../Titanic-Survival-Analysis)  
+  *Objective*: Find factors affecting passenger survival.  
+  *Skills Used*: Python, Pandas, Seaborn, Jupyter Notebook  
+
+---
+
+## 🟡 Intermediate Projects
+- IPL Data Analysis *(Coming Soon)*  
+  *Objective*: Analyze IPL player/team performance using data.  
+  *Skills*: Pandas, Matplotlib, EDA  
+
+- Diabetes Prediction (ML) *(Coming Soon)*  
+  *Objective*: Predict diabetes based on patient health data.  
+  *Skills*: Scikit-learn, Logistic Regression  
+
+---
+
+## 🔴 Advanced Projects
+- Customer Segmentation *(Coming Soon)*  
+  *Objective*: Cluster customers based on purchase behavior.  
+  *Skills*: Machine Learning, K-Means, Visualization  
+
+- COVID-19 Data Visualization *(Coming Soon)*  
+  *Objective*: Explore global COVID-19 cases & trends.  
+  *Skills*: Pandas, Matplotlib, Seaborn, Time-series  
+
+---
