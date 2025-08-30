@@ -43,8 +43,8 @@ Each project has its own folder with code, dataset, and insights.
 ---
 
 ## 📫 Contact
-- **GitHub:**   
-- **LinkedIn:**   
+- **GitHub:**    
+- **LinkedIn:** https://www.linkedin.com/in/kishore-d-916483271  
 - **Email:** Kishorecollege29@gmail.com  
 
 ---
