@@ -16,22 +16,29 @@ Each project has its own folder with code, dataset, and insights.
 
 ## 📂 Projects
 
-### 1️⃣ Titanic Survival Analysis
-- **Objective:** Find factors affecting passenger survival.  
-- **Skills Used:** Python, Pandas, Seaborn, Jupyter Notebook  
-- **Highlights:**  
-  - Women and children had higher survival rates.  
-  - 1st class passengers survived more than 3rd class.  
-  - Older passengers had lower survival chances.  
-- 🔗 [View Project](./Titanic-Survival-Analysis/README.md)
+### 🟢 Beginner
+- **[Titanic Survival Analysis](./Titanic-Survival-Analysis)**  
+  *Objective:* Find factors affecting passenger survival.  
+  *Skills:* Python, Pandas, Seaborn, Jupyter Notebook  
+  *Highlights:*  
+    - Women & children had higher survival chances  
+    - 1st class > 3rd class survival rate  
+    - Older passengers had lower survival chances  
 
 ---
 
-## 📌 Upcoming Projects
+### 🟡 Intermediate (Coming Soon 🚧)
 - IPL Data Analysis  
 - Diabetes Prediction (ML)  
 - COVID-19 Data Visualization  
-- Customer Segmentation  
+
+---
+
+### 🔴 Advanced (Planned 🚀)
+- Customer Segmentation (Clustering)  
+- Movie Recommendation System  
+- Predicting House Prices (Regression + Feature Engineering)  
+
 
 ---
 
