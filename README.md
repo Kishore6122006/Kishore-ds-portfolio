@@ -23,7 +23,16 @@ Each project has its own folder with code, dataset, and insights.
   *Highlights:*  
     - Women & children had higher survival chances  
     - 1st class > 3rd class survival rate  
-    - Older passengers had lower survival chances  
+    - Older passengers had lower survival chances
+ - **[Student Performance Analysis](./Student-Performance-Analysis)**
+   *Objective:* Analyze student performance using Python and statistics to identify trends, relationships, and performance factors.
+   *Skills:Python, Pandas, NumPy, Matplotlib, Seaborn, EDA, Statistics, Data Visualization
+   *Highlights:*
+   - Performed statistical and correlation analysis
+   - Detected outliers using Z-score and boxplots
+   - Visualized score distributions and trends
+   - Analyzed impact of lunch type on performance
+   - Analyzed correlation between subjects
 
 ---
 
