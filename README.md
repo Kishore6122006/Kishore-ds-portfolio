@@ -26,7 +26,7 @@ Each project has its own folder with code, dataset, and insights.
     - Older passengers had lower survival chances
  - **[Student Performance Analysis](./Student-Performance-Analysis)**
    *Objective:* Analyze student performance using Python and statistics to identify trends, relationships, and performance factors.
-   *Skills:Python, Pandas, NumPy, Matplotlib, Seaborn, EDA, Statistics, Data Visualization
+   *Skills:*Python, Pandas, NumPy, Matplotlib, Seaborn, EDA, Statistics, Data Visualization
    *Highlights:*
    - Performed statistical and correlation analysis
    - Detected outliers using Z-score and boxplots
