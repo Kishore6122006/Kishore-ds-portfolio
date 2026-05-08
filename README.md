@@ -27,6 +27,7 @@ Each project has its own folder with code, dataset, and insights.
  - **[Student Performance Analysis](./Student-Performance-Analysis)**
     
    *Objective:* Analyze student performance using Python and statistics to identify trends, relationships, and performance factors.
+
    *Skills:* Python, Pandas, NumPy, Matplotlib, Seaborn
    *Highlights:*
    - Performed statistical and correlation analysis
