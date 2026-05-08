@@ -37,7 +37,7 @@ Each project has its own folder with code, dataset, and insights.
    - Visualized score distributions and trends
    - Analyzed impact of lunch type on performance
    - Identified strong positive correlation between reading and writing scores
-
+- ** IPL Data Analysis**
 ---
 
 ### 🟡 Intermediate (Coming Soon 🚧)
