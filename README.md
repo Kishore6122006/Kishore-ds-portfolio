@@ -18,7 +18,9 @@ Each project has its own folder with code, dataset, and insights.
 
 ### 🟢 Beginner
 - **[Titanic Survival Analysis](./Titanic-Survival-Analysis)**  
+
   *Objective:* Find factors affecting passenger survival.  
+
   *Skills:* Python, Pandas, Seaborn, Jupyter Notebook  
   *Highlights:*  
     - Women & children had higher survival chances  
