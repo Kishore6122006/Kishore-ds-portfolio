@@ -9,7 +9,7 @@ Each project has its own folder with code, dataset, and insights.
 ## 🚀 About Me
 - 🎓 B.Tech Student in Information Technology  
 - 📊 Aspiring Data Scientist with interest in analytics & machine learning  
-- 🌍 Currently learning Python, Data Analysis, and AI tools  
+- 🌍 Currently learning Data Analysis, Machine Learning, and AI tools  
 - 🎯 Goal: To build strong skills and land a Data Scientist role  
 
 ---
@@ -27,13 +27,13 @@ Each project has its own folder with code, dataset, and insights.
  - **[Student Performance Analysis](./Student-Performance-Analysis)**
     
    *Objective:* Analyze student performance using Python and statistics to identify trends, relationships, and performance factors.
-   *Skills:* Python, Pandas, NumPy, Matplotlib, Seaborn, EDA, Statistics, Data Visualization
+   *Skills:* Python, Pandas, NumPy, Matplotlib, Seaborn
    *Highlights:*
    - Performed statistical and correlation analysis
    - Detected outliers using Z-score and boxplots
    - Visualized score distributions and trends
    - Analyzed impact of lunch type on performance
-   - Analyzed correlation between subjects
+   - Identified strong positive correlation between reading and writing scores
 
 ---
 
