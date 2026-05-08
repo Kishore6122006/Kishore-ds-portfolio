@@ -41,9 +41,9 @@ Each project has its own folder with code, dataset, and insights.
 ---
 
 ### 🟡 Intermediate (Coming Soon 🚧)
-- IPL Data Analysis  
 - Diabetes Prediction (ML)  
-- COVID-19 Data Visualization  
+- COVID-19 Data Visualization
+- Customer Churn Prediction System
 
 ---
 
