@@ -50,7 +50,9 @@ Each project has its own folder with code, dataset, and insights.
 ### 🔴 Advanced (Planned 🚀)
 - Customer Segmentation (Clustering)  
 - Movie Recommendation System  
-- Predicting House Prices (Regression + Feature Engineering)  
+- Predicting House Prices (Regression + Feature Engineering)
+- IoT-Based Smart Energy Consumption Prediction
+- AI-Powered Data Analyst Assistant 
 
 
 ---
